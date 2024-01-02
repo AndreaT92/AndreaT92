@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreaT92
 - 👀 I’m interested in C#.
-- 🌱 I’m currently learning C# and game programming on Unity.
-- 💞️ I’m looking to collaborate on programming basic code to learn C#.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on programming to learn C#.
 - 📫 How to reach me: andrea.tauberova@seznam.cz
 
 <!---
